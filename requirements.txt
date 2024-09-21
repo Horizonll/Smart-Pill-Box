@@ -1,0 +1,16 @@
+# numpy==1.26.1 # nano torch
+paddlepaddle
+paddleocr
+pygame
+pydub
+# LLM
+transformers
+# torch
+# torchaudio
+accelerate
+SpeechRecognition
+openai-whisper
+pyaudio
+# sudo apt install ffmpeg
+qianfan
+dotenv
